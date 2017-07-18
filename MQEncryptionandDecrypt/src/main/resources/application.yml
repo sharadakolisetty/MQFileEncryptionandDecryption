@@ -1,0 +1,15 @@
+runenv: dev
+queues:
+logging:
+  file: 
+
+  dev_local:
+  host:
+  manager:
+
+Dev:
+
+mqconn:
+
+MQMD
+RFH Header (business ids technical ids and timings)

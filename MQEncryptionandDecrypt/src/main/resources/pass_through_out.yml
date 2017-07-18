@@ -1,0 +1,32 @@
+#modes:sign signencrypt verify verify decrypt passthru IN passthru OUT
+  mode:passthruOUT
+  instance:1
+  period:
+    validity:p24M
+    overlap:P30D
+   Authentiction:
+     auth1:
+      name:keyA
+      startdate:01/04/2017
+     auth2:
+      name:keyB
+      startdate:
+    queues:
+      input:
+      ouptput:
+      error:
+      host:
+      manager:
+      channel:
+      port:
+   ccdt:
+      qmgr:
+      file:
+      ssl:
+    mqconn:
+      userid:
+      password:
+    endpoints:
+       
+       server:
+       port:

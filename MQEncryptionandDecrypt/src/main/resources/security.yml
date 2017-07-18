@@ -1,0 +1,3 @@
+#secret encryption key
+keyStore:C:/sarada/keys.jceks
+Keystorepass:passw0rd
